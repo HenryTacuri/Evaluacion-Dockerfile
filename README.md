@@ -7,7 +7,7 @@ Para construir la aplicación angular utilizamos el comando npm install
 
 ### Construcción de la imagen
 Comandos:
-* docker build -t henrytacuri/servidorDocker .
+* docker build -t henrytacuri/servidor_docker .
 
 ### Comandos para levantar la aplicación angular y modificar la aplicación angular
 
