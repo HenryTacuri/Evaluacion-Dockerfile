@@ -14,6 +14,8 @@ Comandos:
 ***Comando para levantar la aplicación angular:** 
 docker run -d -p 80:80 henrytacuri/servidor_docker
 
+**Para descargar la imagen desde Docker hub utilizamos el comando:** docker pull henrytacuri/servidor_docker
+
 ***Comando para modificar la aplicación angular:** 
 docker run -it henrytacuri/servidor_docker bash
 
